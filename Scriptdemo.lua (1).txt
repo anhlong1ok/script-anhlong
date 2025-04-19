@@ -38,10 +38,17 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
      Name = "anhlong",
     Callback = function()
 	  local Settings = {
-  https://www.roblox.com/share?code=fa6befc93eb8fd44b1909c044dc6029f&type=ExperienceDetails&stamp=1745049723677
-  Translator = true; -- true/false
-}
-
+    dead rails
+       }
+loadstring(game:HttpGet("https://raw.githubusercontent.com/InfernusScripts/Null-Fire/main/Loader"))()(Settings)
+  end
+  })   
+  AddButton(Tab1o, {
+     Name = "farm",
+    Callback = function()
+	  local Settings = {
+    dead rails
+       }
 loadstring(game:HttpGet("https://raw.githubusercontent.com/thiennrb7/Script/refs/heads/main/autobond"))()(Settings)
   end
   })
